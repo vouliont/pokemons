@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Pokemons
-//
-//  Created by Владислав on 04.09.2020.
-//  Copyright © 2020 Владислав. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
